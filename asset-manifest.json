@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.d0d343b6.chunk.css",
-    "main.js": "./static/js/main.d8666e68.chunk.js",
-    "main.js.map": "./static/js/main.d8666e68.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.180c1d79.js",
-    "runtime-main.js.map": "./static/js/runtime-main.180c1d79.js.map",
-    "static/js/2.7737b0da.chunk.js": "./static/js/2.7737b0da.chunk.js",
-    "static/js/2.7737b0da.chunk.js.map": "./static/js/2.7737b0da.chunk.js.map",
-    "static/js/3.b05fbb2c.chunk.js": "./static/js/3.b05fbb2c.chunk.js",
-    "static/js/3.b05fbb2c.chunk.js.map": "./static/js/3.b05fbb2c.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.d0d343b6.chunk.css.map": "./static/css/main.d0d343b6.chunk.css.map",
-    "static/js/2.7737b0da.chunk.js.LICENSE.txt": "./static/js/2.7737b0da.chunk.js.LICENSE.txt",
-    "static/media/Telegram_logo.28141391.svg": "./static/media/Telegram_logo.28141391.svg",
-    "static/media/busd.488237bc.svg": "./static/media/busd.488237bc.svg",
-    "static/media/diamond-team-logo.f51408eb.png": "./static/media/diamond-team-logo.f51408eb.png",
-    "static/media/index.css": "./static/media/pexels-anni-roenkae-2156881.7c84bdc8.jpg"
+    "main.css": "/static/css/main.59b24299.chunk.css",
+    "main.js": "/static/js/main.7a57a1f1.chunk.js",
+    "main.js.map": "/static/js/main.7a57a1f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1e6407c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1e6407c.js.map",
+    "static/js/2.471bf3a7.chunk.js": "/static/js/2.471bf3a7.chunk.js",
+    "static/js/2.471bf3a7.chunk.js.map": "/static/js/2.471bf3a7.chunk.js.map",
+    "static/js/3.b05fbb2c.chunk.js": "/static/js/3.b05fbb2c.chunk.js",
+    "static/js/3.b05fbb2c.chunk.js.map": "/static/js/3.b05fbb2c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.59b24299.chunk.css.map": "/static/css/main.59b24299.chunk.css.map",
+    "static/js/2.471bf3a7.chunk.js.LICENSE.txt": "/static/js/2.471bf3a7.chunk.js.LICENSE.txt",
+    "static/media/Telegram_logo.28141391.svg": "/static/media/Telegram_logo.28141391.svg",
+    "static/media/busd.488237bc.svg": "/static/media/busd.488237bc.svg",
+    "static/media/diamond-team-logo.f51408eb.png": "/static/media/diamond-team-logo.f51408eb.png",
+    "static/media/index.css": "/static/media/pexels-anni-roenkae-2156881.7c84bdc8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.180c1d79.js",
-    "static/js/2.7737b0da.chunk.js",
-    "static/css/main.d0d343b6.chunk.css",
-    "static/js/main.d8666e68.chunk.js"
+    "static/js/runtime-main.e1e6407c.js",
+    "static/js/2.471bf3a7.chunk.js",
+    "static/css/main.59b24299.chunk.css",
+    "static/js/main.7a57a1f1.chunk.js"
   ]
 }
