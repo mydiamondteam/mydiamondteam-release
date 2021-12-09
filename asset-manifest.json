@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.17536475.chunk.css",
-    "main.js": "/static/js/main.a0d09aaa.chunk.js",
-    "main.js.map": "/static/js/main.a0d09aaa.chunk.js.map",
+    "main.js": "/static/js/main.ed5f5ea9.chunk.js",
+    "main.js.map": "/static/js/main.ed5f5ea9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e1e6407c.js",
     "runtime-main.js.map": "/static/js/runtime-main.e1e6407c.js.map",
-    "static/js/2.36d73bea.chunk.js": "/static/js/2.36d73bea.chunk.js",
-    "static/js/2.36d73bea.chunk.js.map": "/static/js/2.36d73bea.chunk.js.map",
+    "static/js/2.fbd70d38.chunk.js": "/static/js/2.fbd70d38.chunk.js",
+    "static/js/2.fbd70d38.chunk.js.map": "/static/js/2.fbd70d38.chunk.js.map",
     "static/js/3.b05fbb2c.chunk.js": "/static/js/3.b05fbb2c.chunk.js",
     "static/js/3.b05fbb2c.chunk.js.map": "/static/js/3.b05fbb2c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.17536475.chunk.css.map": "/static/css/main.17536475.chunk.css.map",
-    "static/js/2.36d73bea.chunk.js.LICENSE.txt": "/static/js/2.36d73bea.chunk.js.LICENSE.txt",
+    "static/js/2.fbd70d38.chunk.js.LICENSE.txt": "/static/js/2.fbd70d38.chunk.js.LICENSE.txt",
     "static/media/Telegram_logo.28141391.svg": "/static/media/Telegram_logo.28141391.svg",
     "static/media/busd.488237bc.svg": "/static/media/busd.488237bc.svg",
     "static/media/mydiamondteam-fire.6804dfc7.png": "/static/media/mydiamondteam-fire.6804dfc7.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e1e6407c.js",
-    "static/js/2.36d73bea.chunk.js",
+    "static/js/2.fbd70d38.chunk.js",
     "static/css/main.17536475.chunk.css",
-    "static/js/main.a0d09aaa.chunk.js"
+    "static/js/main.ed5f5ea9.chunk.js"
   ]
 }
