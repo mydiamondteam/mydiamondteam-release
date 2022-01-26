@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.3209cbba.chunk.css",
-    "main.js": "./static/js/main.8538d72e.chunk.js",
-    "main.js.map": "./static/js/main.8538d72e.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.4041e899.js",
-    "runtime-main.js.map": "./static/js/runtime-main.4041e899.js.map",
-    "static/js/2.434bd858.chunk.js": "./static/js/2.434bd858.chunk.js",
-    "static/js/2.434bd858.chunk.js.map": "./static/js/2.434bd858.chunk.js.map",
-    "static/js/3.bac9a965.chunk.js": "./static/js/3.bac9a965.chunk.js",
-    "static/js/3.bac9a965.chunk.js.map": "./static/js/3.bac9a965.chunk.js.map",
+    "main.css": "./static/css/main.4151a0d1.chunk.css",
+    "main.js": "./static/js/main.f7de99d5.chunk.js",
+    "main.js.map": "./static/js/main.f7de99d5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a934c1e2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a934c1e2.js.map",
+    "static/js/2.10580696.chunk.js": "./static/js/2.10580696.chunk.js",
+    "static/js/2.10580696.chunk.js.map": "./static/js/2.10580696.chunk.js.map",
+    "static/js/3.18c69f18.chunk.js": "./static/js/3.18c69f18.chunk.js",
+    "static/js/3.18c69f18.chunk.js.map": "./static/js/3.18c69f18.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.3209cbba.chunk.css.map": "./static/css/main.3209cbba.chunk.css.map",
-    "static/js/2.434bd858.chunk.js.LICENSE.txt": "./static/js/2.434bd858.chunk.js.LICENSE.txt",
+    "static/css/main.4151a0d1.chunk.css.map": "./static/css/main.4151a0d1.chunk.css.map",
+    "static/js/2.10580696.chunk.js.LICENSE.txt": "./static/js/2.10580696.chunk.js.LICENSE.txt",
     "static/media/Telegram_logo.28141391.svg": "./static/media/Telegram_logo.28141391.svg",
+    "static/media/index.css": "./static/media/back-blur.25bf2401.jpg",
     "static/media/busd.488237bc.svg": "./static/media/busd.488237bc.svg",
+    "static/media/header-blank.5555b529.png": "./static/media/header-blank.5555b529.png",
     "static/media/metamask.55d59196.png": "./static/media/metamask.55d59196.png",
     "static/media/mydiamondteam-fire.6804dfc7.png": "./static/media/mydiamondteam-fire.6804dfc7.png",
-    "static/media/index.css": "./static/media/pexels-anni-roenkae-2156881.88c8c755.jpg",
     "static/media/trustwallet.8de17c9e.png": "./static/media/trustwallet.8de17c9e.png",
     "static/media/walletconnect.1b22e784.png": "./static/media/walletconnect.1b22e784.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4041e899.js",
-    "static/js/2.434bd858.chunk.js",
-    "static/css/main.3209cbba.chunk.css",
-    "static/js/main.8538d72e.chunk.js"
+    "static/js/runtime-main.a934c1e2.js",
+    "static/js/2.10580696.chunk.js",
+    "static/css/main.4151a0d1.chunk.css",
+    "static/js/main.f7de99d5.chunk.js"
   ]
 }
