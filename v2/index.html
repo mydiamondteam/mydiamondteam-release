@@ -24,6 +24,7 @@
 <script>
 	const urlParams = new URLSearchParams(window.location.search);
 	const unlock = urlParams.get('unlock');
+	const referral = urlParams.get('ref');
 
 	// Set the date we're counting down to
 	var countDownDateUTC = new Date();
@@ -59,7 +60,11 @@
 	  if (distance < 0 || unlock == "yes") {
 		clearInterval(x);
 		//document.getElementById("countdownSection").style.display = "none";
-		location.href = "index-launch.html";
+		if(referral.length > 0){
+			location.href = "index-launch.html?ref="+referral;
+		}else{
+			location.href = "index-launch.html;
+		}
 	  }
 	}, 1000);
 </script>
