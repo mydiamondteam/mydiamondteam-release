@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>MyDiamondTeam</title>
+	<style>
+		body {
+			background: #42387b;
+			color: #fbbc21;
+			text-align: center;
+		}
+		
+		h1 {
+			font-size: 32pt;
+			font-family: Verdana;
+		}
+	</style>
+</head>
+<body>
+
+<h1 id="countdownNode"></h1>
+<img src="/v2/static/media/mydiamondteam-fire.bbbec596.png" style="width: 50%" />
+
+<script>
+	const urlParams = new URLSearchParams(window.location.search);
+	const unlock = urlParams.get('unlock');
+	const referral = urlParams.get('ref');
+
+	// Set the date we're counting down to
+	var countDownDateUTC = new Date();
+	countDownDateUTC.setUTCDate(4);
+	countDownDateUTC.setUTCMonth(2);
+	countDownDateUTC.setUTCFullYear(2022);
+	countDownDateUTC.setUTCHours(20);
+	countDownDateUTC.setUTCMinutes(00);
+	countDownDateUTC.setUTCSeconds(00);
+
+	var countDownDate = countDownDateUTC.getTime();
+
+	// Update the count down every 1 second
+	var x = setInterval(function() {
+
+	  // Get today's date and time
+	  var now = new Date().getTime();
+
+	  // Find the distance between now and the count down date
+	  var distance = countDownDate - now;
+
+	  // Time calculations for days, hours, minutes and seconds
+	  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+	  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+	  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+	  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+	  // Display the result in the element with id="demo"
+	  document.getElementById("countdownNode").innerHTML = days + "d " + hours + "h "
+	  + minutes + "m " + seconds + "s ";
+
+	  // If the count down is finished, write some text
+	  if (distance < 0 || unlock == "yes") {
+		clearInterval(x);
+		//document.getElementById("countdownSection").style.display = "none";
+		if(referral.length > 0){
+			location.href = "index-launch.html?ref="+referral;
+		}else{
+			location.href = "index-launch.html";
+		}
+	  }
+	}, 1000);
+</script>
+
+
+</body>
+</html>
