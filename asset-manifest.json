@@ -1,21 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.450aa52a.chunk.css",
-    "main.js": "./static/js/main.4ef3abd7.chunk.js",
-    "main.js.map": "./static/js/main.4ef3abd7.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.f7802908.js",
-    "runtime-main.js.map": "./static/js/runtime-main.f7802908.js.map",
-    "static/js/2.740c3068.chunk.js": "./static/js/2.740c3068.chunk.js",
-    "static/js/2.740c3068.chunk.js.map": "./static/js/2.740c3068.chunk.js.map",
-    "static/js/3.68e5dada.chunk.js": "./static/js/3.68e5dada.chunk.js",
-    "static/js/3.68e5dada.chunk.js.map": "./static/js/3.68e5dada.chunk.js.map",
+    "main.js": "./static/js/main.49cb9c04.chunk.js",
+    "main.js.map": "./static/js/main.49cb9c04.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5f70cadf.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5f70cadf.js.map",
+    "static/js/2.12d2ac18.chunk.js": "./static/js/2.12d2ac18.chunk.js",
+    "static/js/2.12d2ac18.chunk.js.map": "./static/js/2.12d2ac18.chunk.js.map",
+    "static/js/3.226673f7.chunk.js": "./static/js/3.226673f7.chunk.js",
+    "static/js/3.226673f7.chunk.js.map": "./static/js/3.226673f7.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.450aa52a.chunk.css.map": "./static/css/main.450aa52a.chunk.css.map",
-    "static/js/2.740c3068.chunk.js.LICENSE.txt": "./static/js/2.740c3068.chunk.js.LICENSE.txt",
-    "static/js/main.4ef3abd7.chunk.js.LICENSE.txt": "./static/js/main.4ef3abd7.chunk.js.LICENSE.txt",
-    "static/media/Telegram_logo.28141391.svg": "./static/media/Telegram_logo.28141391.svg",
+    "static/js/2.12d2ac18.chunk.js.LICENSE.txt": "./static/js/2.12d2ac18.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/back-blur.25bf2401.jpg",
-    "static/media/busd.488237bc.svg": "./static/media/busd.488237bc.svg",
     "static/media/header-blank.5555b529.png": "./static/media/header-blank.5555b529.png",
     "static/media/metamask.55d59196.png": "./static/media/metamask.55d59196.png",
     "static/media/mydiamondteam-fire.6804dfc7.png": "./static/media/mydiamondteam-fire.6804dfc7.png",
@@ -23,9 +20,9 @@
     "static/media/walletconnect.1b22e784.png": "./static/media/walletconnect.1b22e784.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7802908.js",
-    "static/js/2.740c3068.chunk.js",
+    "static/js/runtime-main.5f70cadf.js",
+    "static/js/2.12d2ac18.chunk.js",
     "static/css/main.450aa52a.chunk.css",
-    "static/js/main.4ef3abd7.chunk.js"
+    "static/js/main.49cb9c04.chunk.js"
   ]
 }
