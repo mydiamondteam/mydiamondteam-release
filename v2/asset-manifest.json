@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.33ee1499.chunk.css",
-    "main.js": "./static/js/main.133256c0.chunk.js",
-    "main.js.map": "./static/js/main.133256c0.chunk.js.map",
+    "main.js": "./static/js/main.9b10261a.chunk.js",
+    "main.js.map": "./static/js/main.9b10261a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8bcaf503.js",
     "runtime-main.js.map": "./static/js/runtime-main.8bcaf503.js.map",
     "static/js/2.a4d37c73.chunk.js": "./static/js/2.a4d37c73.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "./index.html",
     "static/css/main.33ee1499.chunk.css.map": "./static/css/main.33ee1499.chunk.css.map",
     "static/js/2.a4d37c73.chunk.js.LICENSE.txt": "./static/js/2.a4d37c73.chunk.js.LICENSE.txt",
+    "static/js/main.9b10261a.chunk.js.LICENSE.txt": "./static/js/main.9b10261a.chunk.js.LICENSE.txt",
     "static/media/Telegram_logo.28141391.svg": "./static/media/Telegram_logo.28141391.svg",
     "static/media/index.css": "./static/media/bg.8a0fdf04.jpg",
     "static/media/busd.488237bc.svg": "./static/media/busd.488237bc.svg",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.8bcaf503.js",
     "static/js/2.a4d37c73.chunk.js",
     "static/css/main.33ee1499.chunk.css",
-    "static/js/main.133256c0.chunk.js"
+    "static/js/main.9b10261a.chunk.js"
   ]
 }
